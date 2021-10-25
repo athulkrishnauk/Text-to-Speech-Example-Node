@@ -11,4 +11,5 @@ Text to speech example in node js using google api.
 4). Download a private key as JSON.
 
 npm install
+
 npm run dev
